@@ -5,3 +5,4 @@ ikt github bevezető gyakorlás
 halohalollalhlhoahalaolhahoaloahlahloahlohalhaoolahaohlohalohaloahlohahaaolahlahloahlahlllolahloholhaloahlohaha
 # Ez vagyok én(:
 # halott
+# hallo git
