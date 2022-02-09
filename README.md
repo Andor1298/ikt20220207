@@ -4,3 +4,4 @@ ikt github bevezető gyakorlás
 # halo halo
 halohalollalhlhoahalaolhahoaloahlahloahlohalhaoolahaohlohalohaloahlohahaaolahlahloahlahlllolahloholhaloahlohaha
 # Ez vagyok én(:
+# halo
