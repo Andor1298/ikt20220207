@@ -3,4 +3,4 @@ ikt github bevezető gyakorlás
 # github-ról írtam
 # halo halo
 halohalollalhlhoahalaolhahoaloahlahloahlohalhaoolahaohlohalohaloahlohahaaolahlahloahlahlllolahloholhaloahlohaha
-Ez vagyok én(:
+# Ez vagyok én(:
