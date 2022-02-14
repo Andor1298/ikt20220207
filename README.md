@@ -6,3 +6,4 @@ ikt github bevezető gyakorlás
 # _________________________________
 # aafgf
 # szar lehet
+# szia uram
