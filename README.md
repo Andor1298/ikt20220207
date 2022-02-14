@@ -2,8 +2,3 @@
 ikt github bevezető gyakorlás
 # github-ról írtam
 # halo halo
-halohalollalhlhoahalaolhahoaloahlahloahlohalhaoolahaohlohalohaloahlohahaaolahlahloahlahlllolahloholhaloahlohaha
-# Ez vagyok én(:
-# halott
-# hallo git
-# ez van
