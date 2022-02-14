@@ -1,4 +1,6 @@
 # ikt20220207
 ikt github bevezető gyakorlás
 # github-ról írtam
-# halo halo
+# halo hal
+# :)
+# hlalao
