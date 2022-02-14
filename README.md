@@ -6,3 +6,4 @@ ikt github bevezető gyakorlás
 # _________________________________
 # aklfsdkljgsdg
 # halohao
+# suli  utan spar
