@@ -5,3 +5,4 @@ ikt github bevezető gyakorlás
 # '"+'!"%'/+=%()!)Ö"()'/!)/+(Ö':?_???:_+()'(=!))
 # _________________________________
 # aklfsdkljgsdg
+# halohao
