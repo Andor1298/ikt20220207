@@ -4,3 +4,4 @@ ikt github bevezető gyakorlás
 # dirrrrr
 # '"+'!"%'/+=%()!)Ö"()'/!)/+(Ö':?_???:_+()'(=!))
 # _________________________________
+# aklfsdkljgsdg
