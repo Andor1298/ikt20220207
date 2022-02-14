@@ -6,4 +6,4 @@ halohalollalhlhoahalaolhahoaloahlahloahlohalhaoolahaohlohalohaloahlohahaaolahlah
 # Ez vagyok én(:
 # halott
 # hallo git
-# ez vagy te
+# ez van
