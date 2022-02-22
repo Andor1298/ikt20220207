@@ -7,3 +7,4 @@ ikt github bevezető gyakorlás
 # aafgf
 # szar lehet
 # szia uram
+# otthonrűú
