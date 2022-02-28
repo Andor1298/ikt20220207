@@ -9,3 +9,5 @@ ikt github bevezető gyakorlás
 # szia uram
 # otthonrűú
 plll
+plll
+# dddd
