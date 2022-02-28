@@ -9,3 +9,4 @@ ikt github bevezető gyakorlás
 # szia uram
 # otthonrűú
 jjjkjk
+# fj
