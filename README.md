@@ -8,3 +8,4 @@ ikt github bevezető gyakorlás
 # szar lehet
 # szia uram
 # otthonrűú
+jjjkjk
